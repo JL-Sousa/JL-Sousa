@@ -1,6 +1,6 @@
-### Olá, sou Jonyelson Lopes, desenvolvedor Fullstack Jr 👋
+### Olá, sou Jonyelson Lopes, desenvolvedor Fullstack na IBM-Brasil 👋
 
-- 🔭 Hoje trabalho com desenvolvedor fullstack Nodejs / ReactJS
+- 🔭 Hoje trabalho com desenvolvedor fullstack Nodejs / ReactJS / Java / Quarkus
 - 🌱 Estudante do bootcamp JSExpert - Erick Wendel
 - 👯 Estou procurando colaborar em [youtube - @tecodev](https://www.youtube.com/channel/UCVFoQbSA_ASAwqw26oL0h7w)
 - 📫 Como me encontrar: jl_sousa.dev@yahoo.com
