@@ -1,8 +1,6 @@
 ### Olá, sou Jonyelson Lopes, Desenvolvedor Fullstack 👋
 
-- 🔭 trabalho como desenvolvedor fullstack Nodejs / ReactJS / Java / Quarkus
-- 🌱 Estudante do bootcamp JSExpert - Erick Wendel
-- 👯 Estou procurando colaborar em [youtube - @tecodev](https://www.youtube.com/channel/UCVFoQbSA_ASAwqw26oL0h7w)
+- 🔭 trabalho como desenvolvedor fullstack Nodejs / ReactJS / Java / Quarkus / SPRING
 - 📫 Como me encontrar: jl_sousa.dev@yahoo.com
 
 
